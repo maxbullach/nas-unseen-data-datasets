@@ -1,0 +1,4 @@
+# generated datasets and the downloaded photo cache
+data/
+.image_cache/
+__pycache__/
