@@ -1,5 +1,5 @@
 """
-Shared plumbing for the dataset_generation scripts.
+Shared plumbing for the dataset generation scripts.
 
 Each generate_*.py owns its dataset's actual idea/logic end to end. This module only
 holds generic, idea-agnostic helpers reused by more than one of them: writing the
